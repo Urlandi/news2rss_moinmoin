@@ -35,6 +35,6 @@ See for http://www.elsv-v.ru/wiki/Лента.
 
 See for <i>[feedsdb.png](feedsdb.png)</i> or <i>[feedsdb.dia](feedsdb.dia)</i> for detailed database structure.
 
-Use lightsql editor for cahnge <i>feedsdb</i> file.
+Use sqlite editor for cahnge <i>feedsdb</i> file.
 
 Table <b>Feeds</b> - collects all requested feeds and table <b>News</b> - collects all feeds what had been got from Internet. <b>News/Publish</b> - adjust what news has will been publish.
